@@ -1,0 +1,32 @@
+WLOP: WLOP
+Shirt Pull: <lora:FRONT1-000025:1>
+Pants pull down: pantpulldown towards the end of your prompt, followed by <lora:pantpulldown:1>
+Waist grab: "missionGrab", "doggyGrab" and "cowgirlGrab" respectively. Recommend using "Pov"
+ChilloutMixss: Photorealistic
+Jack-O' Challenge Pose: jack-o' challenge, flexible, spread legs, top-down bottom-up
+Sloppy Fellatio: SLOPPY FELLATIO, FELLATIO, SALIVA
+Uber Realistic Porn Merge:
+Fellatio Gesture: <lora:felges1-000024:1>
+POV Cunnilingus: <lora:povcun-000015:1>
+Nursing Handjob: <lora:nursing-000020:1>
+Ass On Glass: Ass On Glass
+Braless: Braless, covered nipples
+No Panties under Pantyhose: <lora:nopanhose:1>
+Motorbike EX: yhmotorbike
+小豚豚鼠 Lora (lora_V10.safetensor): xiaotuntunshu
+
+Blowjob + Creampie LoRA: BLOWJOB; DEEPTHROAT; POV; SIDE; FRONT; ABOVE; CREAMPIE; CUM; KNEELING
+RUNNY MAKEUP; HAND HOLDING HEAD; HAND ON PENIS; ARMS BEHIND BACK; WET PENIS; DRY PENIS;
+NAKED MALE; CLOTHED MALE
+
+POV Doggystyle LoRA: <lora:POVDoggy:0.9>, 1boy, penis, doggystyle, from behind.After that
+you can add other descriptive tags -Examples
+pov hands, ass grab, deep skin (Good results)
+facing away, nude, implied sex (Good results)
+
+standing doggystyle:共通的trigger为1girl,1boy,sex
+配合from front可以生成正对女性的视角
+from side同理
+sex from behind,pov可以生成pov视角
+from normal可以生成常规的视角
+评论区提到的抓胸效果我没特意训练，但是试过breast grab, grabbing from behind,可以实现
